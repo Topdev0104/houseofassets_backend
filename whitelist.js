@@ -26,6 +26,7 @@ const addresses = [
   "Tostaky.eth",
   "0xB42d514aCe2e26E4e773BFA05E1F56951503e241",
   "0x17d2ca6E3B0b307A438cb1Ae49da7079CB8938Ba",
+  "0xacCF93304AD545928951392a29cA2B5ABCa5F38D",
 ];
 
 module.exports = {
